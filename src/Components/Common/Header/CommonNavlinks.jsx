@@ -8,9 +8,9 @@ const Navlinks = ({className}) => {
   return (
     <div>
     <ul className={className}>
-        <li>
+{/*         <li>
             <CurrencySelect/>
-        </li>
+        </li> */}
         <li>
             <Toggle/>
         </li>
